@@ -5,8 +5,8 @@ function ContentSection() {
     <section className="sec">
       <h2>História</h2>
       <p>
-        {/* Coloque aqui o conteúdo extenso */}
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit...
+        {}
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae porro dolores nobis error mollitia labore nesciunt, odio non rem corporis deleniti, praesentium tempore at incidunt harum totam magnam ab dicta.
       </p>
     </section>
   );
