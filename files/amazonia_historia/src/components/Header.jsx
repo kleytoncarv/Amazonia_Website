@@ -8,7 +8,7 @@ function Header() {
         <a href="#" className="active">Home</a>
         <a href="#">About</a>
         <a href="#">Service</a>
-        <a href="#">Contato</a>
+        <a href="https://github.com/kleytoncarv">Contato</a>
       </nav>
     </header>
   );
