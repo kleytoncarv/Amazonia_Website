@@ -1,4 +1,12 @@
 import React, { useEffect, useRef } from 'react';
+import hill1 from './assets/hill1.png';
+import hill2 from './assets/hill2.png';
+import hill3 from './assets/hill3.png';
+import hill4 from './assets/hill4.png';
+import hill5 from './assets/hill5.png';
+import tree from './assets/tree.png';
+import leaf from './assets/leaf.png';
+import plant from './assets/plant.png';
 
 function ParallaxSection() {
   const textRef = useRef(null);
@@ -34,15 +42,15 @@ function ParallaxSection() {
 
   return (
     <section className="parallax">
-      <img src="hill1.png" id="hill1" ref={hill1Ref} alt="Hill 1" />
-      <img src="hill2.png" id="hill2" alt="Hill 2" />
-      <img src="hill3.png" id="hill3" alt="Hill 3" />
-      <img src="hill4.png" id="hill4" ref={hill4Ref} alt="Hill 4" />
-      <img src="hill5.png" id="hill5" ref={hill5Ref} alt="Hill 5" />
-      <img src="tree.png" id="tree" alt="Tree" />
+      <img src={hill1} id="hill1" ref={hill1Ref} alt="Hill 1" />
+      <img src={hill2} id="hill2" alt="Hill 2" />
+      <img src={hill3} id="hill3" alt="Hill 3" />
+      <img src={hill4} id="hill4" ref={hill4Ref} alt="Hill 4" />
+      <img src={hill5} id="hill5" ref={hill5Ref} alt="Hill 5" />
+      <img src={tree} id="tree" alt="Tree" />
       <h2 id="text" ref={textRef}>Amazônia</h2>
-      <img src="leaf.png" id="leaf" ref={leafRef} alt="Leaf" />
-      <img src="plant.png" id="plant" alt="Plant" />
+      <img src={leaf} id="leaf" ref={leafRef} alt="Leaf" />
+      <img src={plant} id="plant" alt="Plant" />
     </section>
   );
 }
