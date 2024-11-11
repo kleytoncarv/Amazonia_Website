@@ -10,8 +10,10 @@ function Navegation(){
 
         <div>
             <h2 className="Navegation">
-                <Link to='/'>Home</Link>
+
+                <Link to='/home'>Home</Link>
                 <Link to='/historia'>Historia</Link>
+                
                 
             </h2>
 

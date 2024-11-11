@@ -15,6 +15,7 @@ function App() {
           
       <Navegation />
         <Routes>
+          
           <Route path='/' element={<Home />} />
           <Route path='/historia' element={<Historia />} />
 
