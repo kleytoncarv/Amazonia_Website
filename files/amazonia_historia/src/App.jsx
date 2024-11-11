@@ -1,29 +1,17 @@
-import React from 'react'
-import './App.css'
-import Logo from './components/logo'
-import Home from './pages/Home'
-import Historia from './pages/Historia'
-import Navegation from './components/navegation'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import React from 'react';
+import Header from './Header';
+import ParallaxSection from './ParallaxSection';
+import ContentSection from './ContentSection';
+import './App.css';
 
 function App() {
- 
-
   return (
-
-    <Router>
-          
-      <Navegation />
-        <Routes>
-          
-          <Route path='/' element={<Home />} />
-          <Route path='/historia' element={<Historia />} />
-
-        </Routes>
-    </Router>
-
-    
-  )
+    <div>
+      <Header />
+      <ParallaxSection />
+      <ContentSection />
+    </div>
+  );
 }
 
-export default App
+export default App;
