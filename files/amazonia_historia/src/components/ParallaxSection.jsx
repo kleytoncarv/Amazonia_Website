@@ -1,12 +1,12 @@
 import React, { useEffect, useRef } from 'react';
-import hill1 from './assets/hill1.png';
-import hill2 from './assets/hill2.png';
-import hill3 from './assets/hill3.png';
-import hill4 from './assets/hill4.png';
-import hill5 from './assets/hill5.png';
-import tree from './assets/tree.png';
-import leaf from './assets/leaf.png';
-import plant from './assets/plant.png';
+import hill1 from '../assets/hill1.png';
+import hill2 from '../assets/hill2.png';
+import hill3 from '../assets/hill3.png';
+import hill4 from '../assets/hill4.png';
+import hill5 from '../assets/hill5.png';
+import tree from '../assets/tree.png';
+import leaf from '../assets/leaf.png';
+import plant from '../assets/plant.png';
 
 function ParallaxSection() {
   const textRef = useRef(null);

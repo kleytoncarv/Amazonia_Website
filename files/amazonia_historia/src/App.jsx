@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from './Header';
-import ParallaxSection from './ParallaxSection';
-import ContentSection from './ContentSection';
+import Header from './components/Header';
+import ParallaxSection from './components/ParallaxSection';
+import ContentSection from './components/ContentSection';
 import './App.css';
 
 function App() {
