@@ -11,7 +11,7 @@ function App() {
 
   return (
 
-    <Route>
+    <Router>
           
       <Navegation />
         <Routes>
@@ -19,7 +19,7 @@ function App() {
           <Route path='/historia' element={<Historia />} />
 
         </Routes>
-    </Route>
+    </Router>
 
     
   )
