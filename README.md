@@ -66,7 +66,7 @@ As animações parallax são geradas através de manipulações diretas de style
 Instituto Nacional de Pesquisas Espaciais (INPE)
 Fundação Nacional do Índio (FUNAI)
 World Wildlife Fund (WWF)
-Contato
 
 
-💬 Desenvolvido por Kleyton Carvalho – Entre em contato para mais informações ou sugestões.
+<h1>📩 Contato</h1>
+Desenvolvido por Kleyton Carvalho – Entre em contato para mais informações ou sugestões.
