@@ -1,4 +1,4 @@
-📘 Amazônia - História e Parallax Experience
+<h1>📘 Amazônia - História e Parallax Experience</h1>
   
 Este projeto React oferece uma experiência imersiva que combina elementos de design parallax com um conteúdo detalhado sobre a história da Amazônia. Com um design atrativo e interativo, os usuários podem explorar fatos históricos, desde a origem da floresta até as questões contemporâneas de preservação.
 
