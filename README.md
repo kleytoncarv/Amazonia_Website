@@ -33,6 +33,19 @@ Imagens e Assets: Arquivos visuais como hill1.png, tree.png, e outros elementos 
 
 <div>
   <h3>
+    Components
+      🔴Header.jsx
+      🔴ParallaxSection.jsx
+      🔴ContentSection.jsx
+    Assets
+      🔴Imagens
+    CSS
+      🔴App.css
+
+
+    
+      
+    
           src/
       |   
       │
