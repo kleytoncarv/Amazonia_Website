@@ -31,24 +31,27 @@ Imagens e Assets: Arquivos visuais como hill1.png, tree.png, e outros elementos 
   🛠️ Estrutura de Pastas
 </h1>
 
+<div>
+  <h3>
+          src/
+      |   
+      │
+      ├── components/
+      │   ├── Header.jsx
+      │   ├── ParallaxSection.jsx
+      │   └── ContentSection.jsx
+      │
+      ├── assets/
+      │   ├── hill1.png
+      │   ├── hill2.png
+      │   ├── tree.png
+      │   └── ...
+      │
+      ├── App.js
+      └── App.css
+  </h3>
+</div>
 
-
-src/
-|   
-│
-├── components/
-│   ├── Header.jsx
-│   ├── ParallaxSection.jsx
-│   └── ContentSection.jsx
-│
-├── assets/
-│   ├── hill1.png
-│   ├── hill2.png
-│   ├── tree.png
-│   └── ...
-│
-├── App.js
-└── App.css
 Estilização e Animações
 As animações parallax são geradas através de manipulações diretas de style nos elementos referenciados, aplicando deslocamentos com base no scroll da página.
 
