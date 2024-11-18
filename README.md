@@ -27,8 +27,10 @@ JavaScript (ES6): Para lógica de interação e manipulação de estados.
 HTML & CSS: Para a estruturação e estilização dos componentes.
 
 Imagens e Assets: Arquivos visuais como hill1.png, tree.png, e outros elementos gráficos para compor a seção parallax.
+<h1>
+  🛠️ Estrutura de Pastas
+</h1>
 
-Estrutura de Pastas
 
 
 src/
