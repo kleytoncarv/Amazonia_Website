@@ -2,9 +2,9 @@
   
 Este projeto React oferece uma experiência imersiva que combina elementos de design parallax com um conteúdo detalhado sobre a história da Amazônia. Com um design atrativo e interativo, os usuários podem explorar fatos históricos, desde a origem da floresta até as questões contemporâneas de preservação.
 
-Demonstração
 
-Funcionalidades
+
+<h1>⚙️ Funcionalidades</h1>
 
 Efeito Parallax: Elementos visuais dinâmicos que se movem em diferentes velocidades de acordo com o scroll do usuário, proporcionando uma sensação de profundidade.
 Conteúdo Informativo: Seções detalhadas que exploram a história, os habitantes indígenas, e a relevância ambiental e global da Amazônia.
@@ -20,16 +20,15 @@ ParallaxSection: Implementa o efeito parallax usando imagens e referências do R
 ContentSection: Apresenta um conteúdo detalhado sobre a história da Amazônia, dividido em tópicos históricos e curiosidades.
 
 App: Componente principal que integra os outros componentes e estrutura a página.
-Tecnologias Utilizadas
+
+<h1>⚛️ Tecnologias Utilizadas</h1>
 
 React.js: Biblioteca principal para a construção do projeto.
 JavaScript (ES6): Para lógica de interação e manipulação de estados.
 HTML & CSS: Para a estruturação e estilização dos componentes.
-
 Imagens e Assets: Arquivos visuais como hill1.png, tree.png, e outros elementos gráficos para compor a seção parallax.
-<h1>
-  🛠️ Estrutura de Pastas
-</h1>
+
+<h1>🛠️ Estrutura de Pastas</h1>
 
 <div>
   <h3>
@@ -58,13 +57,16 @@ Imagens e Assets: Arquivos visuais como hill1.png, tree.png, e outros elementos 
   </h3>
 </div>
 
-Estilização e Animações
+<h1>✨Estilização e Animações</h1>
+
 As animações parallax são geradas através de manipulações diretas de style nos elementos referenciados, aplicando deslocamentos com base no scroll da página.
 
-Fontes e Referências
+<h1>📝Fontes e Referências</h1>
+
 Instituto Nacional de Pesquisas Espaciais (INPE)
 Fundação Nacional do Índio (FUNAI)
 World Wildlife Fund (WWF)
 Contato
 
-Desenvolvido por Kleyton Carvalho – Entre em contato para mais informações ou sugestões.
+
+💬 Desenvolvido por Kleyton Carvalho – Entre em contato para mais informações ou sugestões.
